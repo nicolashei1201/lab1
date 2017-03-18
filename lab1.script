@@ -1,0 +1,18 @@
+Script started on 2017年03月18日 (週六) 13時35分54秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/happy $[00m whoami.pwd
+whoami.pwd: command not found
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/happy $[00m who [Kami;pwd
+pd2vm
+/home/pd2vm/happy
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/happy $[00m gti [K[K[Kit cin[K[Konfig -l
+usre.email=
+user.email=n861201@gmail.com
+user.name=nicolashei1201
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/happy $[00m git clone https;[K[2Ponfig -l;[4Pwhoami;pwdgit config -l;lone https:// gti [K[K[Kit [Khub.com/nicolashei1201/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/happy $[00m 
+Script done on 2017年03月18日 (週六) 13時38分24秒
